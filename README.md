@@ -1,6 +1,5 @@
 # Fault Prediction in the Crowd?
-An h1 header
-============
+
 
 Paragraphs are separated by a blank line.
 
@@ -157,5 +156,5 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTEyNTc4MSw1MjA0ODIxMThdfQ==
+eyJoaXN0b3J5IjpbLTExNDA3MTEwNDgsNTIwNDgyMTE4XX0=
 -->
