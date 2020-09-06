@@ -13,10 +13,12 @@ Files
       * /data/data1m.csv
       * /data/long_cpu_hog_prod126.csv
 
- 2. Graphs
+ 2. Graphs 
+	  * /code/graphs.R - some of this won't work because of MySQL dependency
+
+ 2. Data Preparation
 	  * /code/graphs.R
-
-
+	  * 
  3. Data Manipulation
      * /code/data_prep_cpu_hog-exp1.r
       * /code/data_prep_cpu_hog-exp2.r
@@ -96,6 +98,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzk1MTg0NSwtMTE0MDcxMTA0OCw1Mj
+eyJoaXN0b3J5IjpbLTgxNTA1MzM4NCwtMTE0MDcxMTA0OCw1Mj
 A0ODIxMThdfQ==
 -->
