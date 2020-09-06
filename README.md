@@ -16,16 +16,16 @@ Files
  2. Graphs
 	  * /code/graphs.R
 
+
  3. Data Manipulation
      * /code/data_prep_cpu_hog-exp1.r
       * /code/data_prep_cpu_hog-exp2.r
       * /code/data_prep-exp3.r
 
- 3. Train and Tes
-     * /code/data_prep_cpu_hog-exp1.r
-      * /code/data_prep_cpu_hog-exp2.r
-      * /code/data_prep-exp3.r
-
+ 3. Train and Test
+     * /code/multivariate_cpu_hog_labels.ipynb
+      * /code/multivariate_cpu_hog_module.ipynb
+      * /code/xgboost_exp3.ipynb
 
 
 Notice again how text always lines up on 4-space indents (including
@@ -96,6 +96,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY3Mjg2MzksLTExNDA3MTEwNDgsNT
-IwNDgyMTE4XX0=
+eyJoaXN0b3J5IjpbMTExNzk1MTg0NSwtMTE0MDcxMTA0OCw1Mj
+A0ODIxMThdfQ==
 -->
