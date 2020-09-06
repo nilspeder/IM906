@@ -13,8 +13,16 @@ Files
       * /data/data1m.csv
       * /data/long_cpu_hog_prod126.csv
 
- 2. Graphs.
+ 2. Graphs
 	  * /code/graphs.R
+
+ 3. Data Manipulation
+     * /code/data_prep_cpu_hog-exp1.
+      * /code/data1m.csv
+      * /code/long_cpu_hog_prod126.csv
+
+
+
 Notice again how text always lines up on 4-space indents (including
 that last line which continues item 3 above).
 
@@ -83,6 +91,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDAwMzY1NywtMTE0MDcxMTA0OCw1Mj
-A0ODIxMThdfQ==
+eyJoaXN0b3J5IjpbLTE5MDI2NDEyMzgsLTExNDA3MTEwNDgsNT
+IwNDgyMTE4XX0=
 -->
