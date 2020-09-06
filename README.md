@@ -9,14 +9,14 @@ Files
 
 
  1. Data
-
       * /data/data1k.csv
       * /data/data1m.csv
-      * /data/long_cp
+      * /data/long_cpu_hog_prod126.csv
 
- 2. Boil some water.
+ 2. Graphs.
+	  * /data/data1k.csv
 
- 3. Dump everything in the pot and follow
+ 4. Dump everything in the pot and follow
     this algorithm:
 
         find wooden spoon
@@ -97,6 +97,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MzgyMzQzLC0xMTQwNzExMDQ4LDUyMD
+eyJoaXN0b3J5IjpbLTUxNzc3Mzk5LC0xMTQwNzExMDQ4LDUyMD
 Q4MjExOF19
 -->
