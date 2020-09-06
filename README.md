@@ -17,9 +17,14 @@ Files
 	  * /code/graphs.R
 
  3. Data Manipulation
-     * /code/data_prep_cpu_hog-exp1.
-      * /code/data1m.csv
-      * /code/long_cpu_hog_prod126.csv
+     * /code/data_prep_cpu_hog-exp1.r
+      * /code/data_prep_cpu_hog-exp2.r
+      * /code/data_prep-exp3.r
+
+ 3. Train and Tes
+     * /code/data_prep_cpu_hog-exp1.r
+      * /code/data_prep_cpu_hog-exp2.r
+      * /code/data_prep-exp3.r
 
 
 
@@ -91,6 +96,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI2NDEyMzgsLTExNDA3MTEwNDgsNT
+eyJoaXN0b3J5IjpbLTE2MDY3Mjg2MzksLTExNDA3MTEwNDgsNT
 IwNDgyMTE4XX0=
 -->
