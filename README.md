@@ -16,9 +16,10 @@ Files
  2. Graphs 
 	  * /code/graphs.R - some of this won't work because of MySQL dependency
 
- 2. Data Preparation
-	  * /code/graphs.R
-	  * 
+ 2. Data Preparation - needs MySQL DB
+	  * /code/script1.sql
+	  * /code/script2.sql
+	  
  3. Data Manipulation
      * /code/data_prep_cpu_hog-exp1.r
       * /code/data_prep_cpu_hog-exp2.r
@@ -30,27 +31,6 @@ Files
       * /code/xgboost_exp3.ipynb
 
 
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
-[^1]: Footnote text goes here.
-
-Tables can look like this:
-
-size  material      color
-----  ------------  ------------
-9     leather       brown
-10    hemp canvas   natural
-11    glass         transparent
-
-Table: Shoes, their sizes, and what they're made of
-
-(The above is the caption for the table.) Pandoc also supports
-multi-line tables:
 
 --------  -----------------------
 keyword   text
@@ -98,6 +78,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTA1MzM4NCwtMTE0MDcxMTA0OCw1Mj
+eyJoaXN0b3J5IjpbMTE1MzY5MjEyMywtMTE0MDcxMTA0OCw1Mj
 A0ODIxMThdfQ==
 -->
