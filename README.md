@@ -10,9 +10,9 @@ Files
 
  1. Data
 
-      * carrots
-      * celery
-      * lentils
+      * /data/data1k.csv
+      * /data/data1m.csv
+      * /data/long_cp
 
  2. Boil some water.
 
@@ -97,6 +97,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAyMTI4MiwtMTE0MDcxMTA0OCw1Mj
-A0ODIxMThdfQ==
+eyJoaXN0b3J5IjpbNzg5MzgyMzQzLC0xMTQwNzExMDQ4LDUyMD
+Q4MjExOF19
 -->
