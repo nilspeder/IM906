@@ -14,21 +14,7 @@ Files
       * /data/long_cpu_hog_prod126.csv
 
  2. Graphs.
-	  * /data/data1k.csv
-
- 4. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
+	  * /code/graphs.R
 Notice again how text always lines up on 4-space indents (including
 that last line which continues item 3 above).
 
@@ -97,6 +83,6 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzc3Mzk5LC0xMTQwNzExMDQ4LDUyMD
-Q4MjExOF19
+eyJoaXN0b3J5IjpbLTI4MDAwMzY1NywtMTE0MDcxMTA0OCw1Mj
+A0ODIxMThdfQ==
 -->
