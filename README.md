@@ -34,6 +34,8 @@ Workflow
 ------------
 
 Download data files
+Run graphs.R files (some parts won't work because of MySQL connector dependency)
+Run Data Manipulation C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjM0NzEzNCw4NTg5Njg3ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0NDIxODE0NTAsODU4OTY4NzgyXX0=
 -->
