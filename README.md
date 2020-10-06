@@ -31,19 +31,20 @@ Files
       * /code/xgboost_exp3.ipynb\
 
  3. Dissertation
-     * /code/multivariate_cpu_hog_labels.ipynb
-      * /code/multivariate_cpu_hog_module.ipynb
-      * /code/xgboost_exp3.ipynb
+     * /dissertation.pdf
 
 Workflow
 ------------
 
-Download data files
-Run graphs.R files (some parts won't work because of MySQL connector dependency)
-Run Data Manipulation Code
-Run Train & Test Code
+ 1. Download data files 
+ 2. Run graphs.R files (some parts won't work
+    because of MySQL connector dependency)
+   
+ 3. List item
 
+Run Data Manipulation Code
+    Run Train & Test Code
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzUwOTEwMyw4NTg5Njg3ODJdfQ==
+eyJoaXN0b3J5IjpbMjc3MzQ5MTQzLDg1ODk2ODc4Ml19
 -->
