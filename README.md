@@ -42,12 +42,13 @@ Workflow
  2. Run graphs.R files (some parts won't work
     because of MySQL connector dependency)
  3. Run Data Manipulation Code
- 4. Run Train & Test Code
+ 4. Run Train & Test Code (you will need to make some edits if you don't have NVIDIA CUDA installed)
 
 Graphs
 ------------
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTE0OTI0Niw4NTg5Njg3ODJdfQ==
+eyJoaXN0b3J5IjpbLTc5NzU1Mzc4NCwxMDg1MTQ5MjQ2LDg1OD
+k2ODc4Ml19
 -->
