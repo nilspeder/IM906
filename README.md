@@ -47,8 +47,14 @@ Workflow
 Graphs
 ------------
 
-![enter image description here](http://nilspeder.pairserver.com/art/Capture.PNG)
+![To 20 Issues](http://nilspeder.pairserver.com/art/Capture.PNG)
+
+![Flaps](http://nilspeder.pairserver.com/art/Capture1.PNG)
+
+![Zoom In](http://nilspeder.pairserver.com/art/Capture2.PNG)
+
+![enter image description here](http://nilspeder.pairserver.com/art/Capture3.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDgzMjMzMSw4NTI4ODY3MDUsLTc5Nz
+eyJoaXN0b3J5IjpbMTQ3OTg0NzEyNCw4NTI4ODY3MDUsLTc5Nz
 U1Mzc4NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
 -->
