@@ -69,7 +69,10 @@ Graphs
 ![Unseen PR](http://nilspeder.pairserver.com/art/Capture10.PNG)
 
 ![Unseen CM](http://nilspeder.pairserver.com/art/Capture11.PNG)
+
+Conculsions
+------------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjMwNzQyNSw4NTI4ODY3MDUsLTc5Nz
-U1Mzc4NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
+eyJoaXN0b3J5IjpbLTEyMzI2MzAyNDEsODUyODg2NzA1LC03OT
+c1NTM3ODQsMTA4NTE0OTI0Niw4NTg5Njg3ODJdfQ==
 -->
