@@ -33,8 +33,6 @@ Files
       * /code/multivariate_cpu_hog_module.ipynb
       * /code/xgboost_exp3.ipynb
 
- 3. Dissertation
-     * /dissertation.pdf
 
 Workflow
 ------------
@@ -83,8 +81,8 @@ The current classifier would need to be refined and developed further prior to p
 
 In addition, it is hypothesised that the methodology could be extended to other devices and other external performance-related issues, such as memory. However, it is unknown if it could be applied to internal issues like configuration errors. Perhaps approaches like process mining, which attempts to discover dependencies between events, might be more successful in exposing those dependencies with configuration errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQzMDU5MjMsLTUyMzU3MjQzOSw0MD
-MzNzQ3NTYsMTIzODY1NTQwMSwxNzM3MDA4OTY4LDIxMjkwODY3
-MTMsODUyODg2NzA1LC03OTc1NTM3ODQsMTA4NTE0OTI0Niw4NT
-g5Njg3ODJdfQ==
+eyJoaXN0b3J5IjpbODAyMTEyMzkzLC0xMTg0MzA1OTIzLC01Mj
+M1NzI0MzksNDAzMzc0NzU2LDEyMzg2NTU0MDEsMTczNzAwODk2
+OCwyMTI5MDg2NzEzLDg1Mjg4NjcwNSwtNzk3NTUzNzg0LDEwOD
+UxNDkyNDYsODU4OTY4NzgyXX0=
 -->
