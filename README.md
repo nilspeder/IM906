@@ -3,6 +3,8 @@
 
 An investigation was conducted into a 40 GB, 326 million record event dataset. This dataset contained anonymised event information representing performance, availability and security issues of 172,000 network devices from approximately 150 different customers. It was hypothesised that network device event data gathered from one customer environment could be used to predict events in another customer environment. After analysis of the dataset, a binary model was developed to predict when a process might request too much compute resources on a device. The model was developed on one set of customer data and tested on another unseen set of customer data. The Matthews correlation coefficient for the model on the unseen test data was 0.66, the F1 score was 0.72, and the False Negative rate was 27%. This was a substantial improvement over a model with no skill. September 2020.
 
+The dissertation is at /dissertation.pdf
+
 
 Files
 ------------
@@ -28,9 +30,25 @@ Files
  3. Train and Test
      * /code/multivariate_cpu_hog_labels.ipynb
       * /code/multivariate_cpu_hog_module.ipynb
-      * /code/xgboost_exp3.ipynb
+      * /code/xgboost_exp3.ipynb\
+
+ 3. Dissertation
+     * /dissertation.pdf
+
+Workflow
+------------
+
+ 1. Download data files 
+ 2. Run graphs.R files (some parts won't work
+    because of MySQL connector dependency)
+ 3. Run Data Manipulation Code
+ 4. Run Train & Test Code (you will need to make some edits if you don't have NVIDIA CUDA installed)
+
+Graphs
+------------
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4OTY4NzgyXX0=
+eyJoaXN0b3J5IjpbLTc5NzU1Mzc4NCwxMDg1MTQ5MjQ2LDg1OD
+k2ODc4Ml19
 -->
