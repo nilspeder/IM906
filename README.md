@@ -57,7 +57,11 @@ Graphs
 ![Description](http://nilspeder.pairserver.com/art/Capture4.PNG)
 
 ![Over vrs Underfitting](http://nilspeder.pairserver.com/art/Capture5.PNG)
+
+![Model](http://nilspeder.pairserver.com/art/Capture6.PNG)
+
+![ROC](http://nilspeder.pairserver.com/art/Capture7.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjEzNzksODUyODg2NzA1LC03OTc1NT
-M3ODQsMTA4NTE0OTI0Niw4NTg5Njg3ODJdfQ==
+eyJoaXN0b3J5IjpbMTAyMjQyMjQ4NSw4NTI4ODY3MDUsLTc5Nz
+U1Mzc4NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
 -->
