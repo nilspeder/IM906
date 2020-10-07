@@ -1,6 +1,6 @@
 # Fault Prediction in the Crowd?
 
-Abstract from my Sep 2020 master's disseration:
+Abstract from my September 2020 master's disseration:
 
 An investigation was conducted into a 40 GB, 326 million record event dataset. This dataset contained anonymised event information representing performance, availability and security issues of 172,000 network devices from approximately 150 different customers. It was hypothesised that network device event data gathered from one customer environment could be used to predict events in another customer environment. After analysis of the dataset, a binary model was developed to predict when a process might request too much compute resources on a device. The model was developed on one set of customer data and tested on another unseen set of customer data. The Matthews correlation coefficient for the model on the unseen test data was 0.66, the F1 score was 0.72, and the False Negative rate was 27%. This was a substantial improvement over a model with no skill. September 2020.
 
@@ -83,8 +83,8 @@ The current classifier would need to be refined and developed further prior to p
 
 In addition, it is hypothesised that the methodology could be extended to other devices and other external performance-related issues, such as memory. However, it is unknown if it could be applied to internal issues like configuration errors. Perhaps approaches like process mining, which attempts to discover dependencies between events, might be more successful in exposing those dependencies with configuration errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI3MjI2NzQsLTUyMzU3MjQzOSw0MD
-MzNzQ3NTYsMTIzODY1NTQwMSwxNzM3MDA4OTY4LDIxMjkwODY3
-MTMsODUyODg2NzA1LC03OTc1NTM3ODQsMTA4NTE0OTI0Niw4NT
-g5Njg3ODJdfQ==
+eyJoaXN0b3J5IjpbNDc2MDIzNzM5LC01MjM1NzI0MzksNDAzMz
+c0NzU2LDEyMzg2NTU0MDEsMTczNzAwODk2OCwyMTI5MDg2NzEz
+LDg1Mjg4NjcwNSwtNzk3NTUzNzg0LDEwODUxNDkyNDYsODU4OT
+Y4NzgyXX0=
 -->
