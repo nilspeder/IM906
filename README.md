@@ -38,7 +38,7 @@ Files
 Workflow
 ------------
 Does my code really work? Try it here:
- 1. Download and unzip data files (I used PeaZIP) 
+ 1. Download and unzip data files (You need an app that handles split zipped files; I used PeaZIP) 
  2. Run graphs.R files (some parts won't work
     because of MySQL connector dependency)
  3. Run Data Manipulation Code
@@ -78,7 +78,7 @@ The current classifier would need to be refined and developed further prior to p
 
 In addition, it is hypothesised that the methodology could be extended to other devices and other external performance-related issues, such as memory. However, it is unknown if it could be applied to internal issues like configuration errors. Perhaps approaches like process mining, which attempts to discover dependencies between events, might be more successful in exposing those dependencies with configuration errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE5ODc1OTEsMTIzODY1NTQwMSwxNz
-M3MDA4OTY4LDIxMjkwODY3MTMsODUyODg2NzA1LC03OTc1NTM3
-ODQsMTA4NTE0OTI0Niw4NTg5Njg3ODJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzcwODEyNiwxMjM4NjU1NDAxLDE3Mz
+cwMDg5NjgsMjEyOTA4NjcxMyw4NTI4ODY3MDUsLTc5NzU1Mzc4
+NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
 -->
