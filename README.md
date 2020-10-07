@@ -61,7 +61,13 @@ Graphs
 ![Model](http://nilspeder.pairserver.com/art/Capture6.PNG)
 
 ![ROC](http://nilspeder.pairserver.com/art/Capture7.PNG)
+
+![PR](http://nilspeder.pairserver.com/art/Capture8.PNG)
+
+![Confused?](http://nilspeder.pairserver.com/art/Capture9.PNG)
+
+![Unseen PR](http://nilspeder.pairserver.com/art/Capture10.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjQyMjQ4NSw4NTI4ODY3MDUsLTc5Nz
-U1Mzc4NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
+eyJoaXN0b3J5IjpbOTE0MjgwMzIzLDg1Mjg4NjcwNSwtNzk3NT
+UzNzg0LDEwODUxNDkyNDYsODU4OTY4NzgyXX0=
 -->
