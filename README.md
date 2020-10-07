@@ -53,8 +53,11 @@ Graphs
 
 ![Zoom In](http://nilspeder.pairserver.com/art/Capture2.PNG)
 
-![enter image description here](http://nilspeder.pairserver.com/art/Capture3.PNG)
+![Flap Counts](http://nilspeder.pairserver.com/art/Capture3.PNG)
+![Description](http://nilspeder.pairserver.com/art/Capture4.PNG)
+
+![Over vrs Underfitting](http://nilspeder.pairserver.com/art/Capture5.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTg0NzEyNCw4NTI4ODY3MDUsLTc5Nz
-U1Mzc4NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
+eyJoaXN0b3J5IjpbLTMyNjEzNzksODUyODg2NzA1LC03OTc1NT
+M3ODQsMTA4NTE0OTI0Niw4NTg5Njg3ODJdfQ==
 -->
