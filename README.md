@@ -38,7 +38,7 @@ Files
 Workflow
 ------------
 Does my code really work? Try it here:
- 1. Download and unzip the data files (You need an app that handles split zipped files; I used [PeaZIP](https://peazip.com/)) 
+ 1. Download and unzip the data files (You'll need an app that handles split zipped files; I used [PeaZIP](https://peazip.com/)) 
  2. Run graphs.R files (some parts won't work
     because of the [RStudio MySQL DB connector](https://db.rstudio.com/databases/my-sql/) dependency)
  3. Run Data Manipulation Code
@@ -79,7 +79,7 @@ The current classifier would need to be refined and developed further prior to p
 
 In addition, it is hypothesised that the methodology could be extended to other devices and other external performance-related issues, such as memory. However, it is unknown if it could be applied to internal issues like configuration errors. Perhaps approaches like process mining, which attempts to discover dependencies between events, might be more successful in exposing those dependencies with configuration errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg3NjI2NjYsNDAzMzc0NzU2LDEyMz
-g2NTU0MDEsMTczNzAwODk2OCwyMTI5MDg2NzEzLDg1Mjg4Njcw
-NSwtNzk3NTUzNzg0LDEwODUxNDkyNDYsODU4OTY4NzgyXX0=
+eyJoaXN0b3J5IjpbLTUyMzU3MjQzOSw0MDMzNzQ3NTYsMTIzOD
+Y1NTQwMSwxNzM3MDA4OTY4LDIxMjkwODY3MTMsODUyODg2NzA1
+LC03OTc1NTM3ODQsMTA4NTE0OTI0Niw4NTg5Njg3ODJdfQ==
 -->
