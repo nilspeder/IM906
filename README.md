@@ -46,6 +46,7 @@ Does my code really work? Try it here:
 
 Graphs
 ------------
+Some example graphs from the paper.
 
 ![To 20 Issues](http://nilspeder.pairserver.com/art/Capture.PNG)
 
@@ -78,7 +79,7 @@ The current classifier would need to be refined and developed further prior to p
 
 In addition, it is hypothesised that the methodology could be extended to other devices and other external performance-related issues, such as memory. However, it is unknown if it could be applied to internal issues like configuration errors. Perhaps approaches like process mining, which attempts to discover dependencies between events, might be more successful in exposing those dependencies with configuration errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMzc0NzU2LDEyMzg2NTU0MDEsMTczNz
-AwODk2OCwyMTI5MDg2NzEzLDg1Mjg4NjcwNSwtNzk3NTUzNzg0
-LDEwODUxNDkyNDYsODU4OTY4NzgyXX0=
+eyJoaXN0b3J5IjpbLTE5MTg3NjI2NjYsNDAzMzc0NzU2LDEyMz
+g2NTU0MDEsMTczNzAwODk2OCwyMTI5MDg2NzEzLDg1Mjg4Njcw
+NSwtNzk3NTUzNzg0LDEwODUxNDkyNDYsODU4OTY4NzgyXX0=
 -->
