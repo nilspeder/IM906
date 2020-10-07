@@ -46,8 +46,8 @@ Workflow
 
 Graphs
 ------------
-![enter image description here](https://github.com/nilspeder/IM906/art/Capture.PNG)
+![enter image description here](https://github.com/nilspeder/IM906/art/Capture.PNG)[enter link description here](https://github.com/nilspeder/IM906/blob/master/art/Capture.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzE0MjAwOSwtNzk3NTUzNzg0LDEwOD
+eyJoaXN0b3J5IjpbMTA3NTcyNzY0MywtNzk3NTUzNzg0LDEwOD
 UxNDkyNDYsODU4OTY4NzgyXX0=
 -->
