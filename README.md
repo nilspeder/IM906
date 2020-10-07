@@ -40,9 +40,9 @@ Workflow
 Does my code really work? Try it here:
  1. Download and unzip the data files (You need an app that handles split zipped files; I used [PeaZIP](https://peazip.com/)) 
  2. Run graphs.R files (some parts won't work
-    because of the RStudio MySQL DB connector dependency)
+    because of the [RStudio MySQL DB connector](https://db.rstudio.com/databases/my-sql/) dependency)
  3. Run Data Manipulation Code
- 4. Run Train & Test Code (you may need to make some edits if you don't have NVIDIA CUDA installed)
+ 4. Run Train & Test Code (you may need to make some edits if you don't have [NVIDIA CUDA](https://developer.nvidia.com/cuda-zone) installed)
 
 Graphs
 ------------
@@ -78,7 +78,7 @@ The current classifier would need to be refined and developed further prior to p
 
 In addition, it is hypothesised that the methodology could be extended to other devices and other external performance-related issues, such as memory. However, it is unknown if it could be applied to internal issues like configuration errors. Perhaps approaches like process mining, which attempts to discover dependencies between events, might be more successful in exposing those dependencies with configuration errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDIyOTI3NiwxMjM4NjU1NDAxLDE3Mz
-cwMDg5NjgsMjEyOTA4NjcxMyw4NTI4ODY3MDUsLTc5NzU1Mzc4
-NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
+eyJoaXN0b3J5IjpbNDAzMzc0NzU2LDEyMzg2NTU0MDEsMTczNz
+AwODk2OCwyMTI5MDg2NzEzLDg1Mjg4NjcwNSwtNzk3NTUzNzg0
+LDEwODUxNDkyNDYsODU4OTY4NzgyXX0=
 -->
