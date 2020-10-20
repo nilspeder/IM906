@@ -2,7 +2,7 @@
 
 Abstract from my September 2020 master's dissertation:
 
-An investigation was conducted into a 40 GB, 326 million record event dataset. This dataset contained anonymised event information representing performance, availability and security issues of 172,000 network devices from approximately 150 different customers. It was hypothesised that network device event data gathered from one customer environment could be used to predict events in another customer environment. After analysis of the dataset, a binary model was developed to predict when a process might request too much compute resources on a device. The model was developed on one set of customer data and tested on another unseen set of customer data. The Matthews correlation coefficient for the model on the unseen test data was 0.66, the F1 score was 0.72, and the False Negative rate was 27%. This was a substantial improvement over a model with no skill. September 2020.
+An investigation was conducted into a 40 GB, 326 million record event dataset. This dataset contained anonymised event information representing performance, availability and security issues of 172,000 network devices from approximately 150 different customers. It was hypothesised that network device event data gathered from one customer environment could be used to predict events in another customer environment. After analysis of the dataset, a binary model was developed to predict when a process might request too much compute resources on a device. The model was developed on one set of customer data and tested on another unseen set of customer data. The Matthews correlation coefficient for the model on the unseen test data was 0.66, the F1 score was 0.72, and the False Negative rate was 27%. This was a substantial improvement over a model with no skill. 
 
 If you need something to read before you go to sleep, the full dissertation is at [dissertation.pdf](http://nilspeder.pairserver.com/dissertation.pdf)
 
@@ -81,8 +81,8 @@ The current classifier would need to be refined and developed further prior to p
 
 In addition, it is hypothesised that the methodology could be extended to other devices and other external performance-related issues, such as memory. However, it is unknown if it could be applied to internal issues like configuration errors. Perhaps approaches like process mining, which attempts to discover dependencies between events, might be more successful in exposing those dependencies with configuration errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMTEyMzkzLC0xMTg0MzA1OTIzLC01Mj
-M1NzI0MzksNDAzMzc0NzU2LDEyMzg2NTU0MDEsMTczNzAwODk2
-OCwyMTI5MDg2NzEzLDg1Mjg4NjcwNSwtNzk3NTUzNzg0LDEwOD
-UxNDkyNDYsODU4OTY4NzgyXX0=
+eyJoaXN0b3J5IjpbNTU1NjE2ODE0LDgwMjExMjM5MywtMTE4ND
+MwNTkyMywtNTIzNTcyNDM5LDQwMzM3NDc1NiwxMjM4NjU1NDAx
+LDE3MzcwMDg5NjgsMjEyOTA4NjcxMyw4NTI4ODY3MDUsLTc5Nz
+U1Mzc4NCwxMDg1MTQ5MjQ2LDg1ODk2ODc4Ml19
 -->
